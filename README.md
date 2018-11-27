@@ -6,7 +6,7 @@
   * [raman光谱的PCA应用](https://github.com/xiao7462/Bioinformatics/blob/master/raman_spectrum/PCA.md)
 ## SVM
 ## Decision tree
-  * 推导
+  * [推导](https://github.com/xiao7462/machine_learning_notes/blob/master/decision%20tree/decision%20tree.ipynb)
 
 ## Emsemble
  * [skearn.emsemble的调用](https://github.com/xiao7462/machine_learning_notes/blob/master/emsemble/ensemble.ipynb)
