@@ -12,6 +12,9 @@
  * [skearn.emsemble的调用](https://github.com/xiao7462/machine_learning_notes/blob/master/emsemble/ensemble.ipynb)
 
 
+# deep_learning_notes
+  基础
+
 # nlp_learning_notes
 
 
