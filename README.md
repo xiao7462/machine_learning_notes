@@ -13,7 +13,7 @@
 
 
 # deep_learning_notes
-  基础
+  [基本概念](https://github.com/xiao7462/machine_learning_notes/blob/master/deep_learning/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
 
 # nlp_learning_notes
 
