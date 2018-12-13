@@ -20,6 +20,8 @@
 
 ## stochastic gradient descent 
 
+## activation funciton
+* [Sigmoid]( https://github.com/xiao7462/machine_learning_notes/blob/master/deep_learning/Sigmoid%20function.ipynb)
 
 # sklearn 
 
