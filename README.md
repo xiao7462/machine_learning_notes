@@ -34,5 +34,5 @@
 
 
 # nlp_learning_notes
-
+## [one-hot编码处理单词，字符](https://github.com/xiao7462/machine_learning_notes/blob/master/nlp/one-hot-%E5%8D%95%E8%AF%8D.ipynb)
 
