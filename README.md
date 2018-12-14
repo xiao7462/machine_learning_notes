@@ -21,8 +21,8 @@
 ## stochastic gradient descent 
 
 ## activation funciton
-* [Sigmoid]( https://github.com/xiao7462/machine_learning_notes/blob/master/deep_learning/Sigmoid%20function.ipynb)
-
+ 1. [Sigmoid]( https://github.com/xiao7462/machine_learning_notes/blob/master/deep_learning/Sigmoid%20function.ipynb)
+ 2. ReLU   [why not used Sigmoid in NN](https://github.com/Kulbear/deep-learning-nano-foundation/wiki/ReLU-and-Softmax-Activation-Functions)
 # sklearn 
 
 
