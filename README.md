@@ -1,8 +1,8 @@
 # Machine learning
 
 ## PCA
+  * [PCA介绍](https://www.jianshu.com/p/908671a4d162)
   * [PCA numpy推导](https://github.com/xiao7462/machine_learning_notes/blob/master/PCA/PCA.ipynb)
-  * [协方差矩阵的numpy和手动求解]()
   * [raman光谱的PCA应用](https://github.com/xiao7462/Bioinformatics/blob/master/raman_spectrum/PCA.md)
 ## SVM
 ## Decision tree
