@@ -1,4 +1,6 @@
 # Machine learning
+## basic concept
+ * [raining, validation, and test sets](https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets)
 
 ## PCA
   * [PCA介绍](https://www.jianshu.com/p/908671a4d162)
