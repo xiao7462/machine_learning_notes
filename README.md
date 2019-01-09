@@ -1,6 +1,6 @@
 # Machine learning
 ## 评估
-
+[方差（variance）、标准差（Standard Deviation）、均方差、均方根值（RMS）、均方误差（MSE）、均方根误差（RMSE）](https://blog.csdn.net/cqfdcw/article/details/78173839)
 ## basic concept
  * [raining, validation, and test sets](https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets)
 
