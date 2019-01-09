@@ -43,3 +43,5 @@
 <br>
 
 # Hands-on Machine Learning with Scikit-Learning & TensorFlow
+ 1. [chapter 1-The Machine Learning landscape](https://github.com/xiao7462/machine_learning_notes/blob/master/Hands-on%20Machine%20Learning%20with%20Scikit-Learning%20-%20TensorFlow/Chapter%201%20%E2%80%93%20The%20Machine%20Learning%20landscape.ipynb)
+ 2. [Chapter 2 -end-to-end_housing.ipynb](https://github.com/xiao7462/machine_learning_notes/blob/master/Hands-on%20Machine%20Learning%20with%20Scikit-Learning%20-%20TensorFlow/Chapter%202%20-end-to-end_housing.ipynb)
