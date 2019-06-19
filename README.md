@@ -32,17 +32,12 @@
 
 # keras
 
-# tensorflow
-
-
-
 
 # nlp_learning_notes
 ## [one-hot编码处理单词，字符](https://github.com/xiao7462/machine_learning_notes/blob/master/nlp/one-hot-%E5%8D%95%E8%AF%8D.ipynb)
 
+## [bilstm](https://github.com/xiao7462/machine_learning_notes/blob/master/deep_learning/lstm.py) 处理恶意评论
 
-<br>
-<br>
 
 # Hands-on Machine Learning with Scikit-Learning & TensorFlow
  1. [chapter 1-The Machine Learning landscape](https://github.com/xiao7462/machine_learning_notes/blob/master/Hands-on%20Machine%20Learning%20with%20Scikit-Learning%20-%20TensorFlow/Chapter%201%20%E2%80%93%20The%20Machine%20Learning%20landscape.ipynb)
